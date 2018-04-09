@@ -5,3 +5,5 @@
 
 # All scripts are implemented in Python 3.6
 
+# Additional information and preregistered study available on https://osf.io/pgxrn/
+
